@@ -51,7 +51,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/anabva/
+  link: https://twitter.com/AnaBetty2304
   label: Follow me on Twitter
   display:
     header: true
