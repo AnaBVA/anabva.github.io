@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Redirecting to https://anabva.netlify.app//</title>
+<title>Redirecting to https://anabva.netlify.app/ </title>
 <meta http-equiv="refresh" content="0; URL=https://anabva.netlify.app/">
 <link rel="canonical" href="https://anabva.netlify.app/">
 
