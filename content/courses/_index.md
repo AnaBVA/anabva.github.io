@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+You will find the material and infomation about the courses I've been involved here:

@@ -1,41 +1,26 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: 📊 Courses 
+linkTitle: Course's links
+summary: Some courses I taught.
 date: '2021-01-24'
 type: book
 ---
+
+I learnt R programming by myself at least I didn't take courses the first 2 years, it was hard and tough. The whole bioinformatics and/or informatics world was totally unknown, I didn't know anything about communities or summer courses. The first time I opened a terminal I had so many questions and I didn't understand anything. I felt lost but also intrigued and excited to enter a new world that literal can be in your hands. 
+
+The opportunity of learning computer science came also with an internship in Canada. All those months were upside-down and a mixture of happiness and frustration. I didn't know if I was the dumbest student, the language, or just a learning curve. 
+
+My coworkers and PI at the time were the best, they tried to encourage me and let me know I was not alone but I still had those feelings (and I'm still having sometimes). So, whenever I have the opportunity to teach, help or encourage someone to give their first step, I try my best. 
+
+I'm not a "natural" teacher. Oral presentations, talks, and speeches are not my strength, neither are my writing skills (hehe) but I truly believe practice makes the master. 
+
+I have taught some courses and you will find the material and repositories here.
+
+
+
+
 
 {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
-
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
-
-## Program overview
-
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Courses in this program
-
-{{< list_children >}}
-
-## Meet your instructor
-
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
