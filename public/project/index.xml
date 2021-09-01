@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://academic-demo.netlify.app/project/</link>
+      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://academic-demo.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>Alternative Splicing in TCDD exposure</title>
+      <link>https://academic-demo.netlify.app/project/project-tcdd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/project-tcdd/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pone.0219747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cell.cinvestav.mx/depto.php?lang=es&amp;amp;tit=4&amp;amp;subt=1&amp;amp;subsubt=6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillermo Elizondo-Azuela&amp;rsquo;s lab&lt;/a&gt; and &lt;a href=&#34;https://labs.oicr.on.ca/boutros-lab/software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Boutros&#39; lab&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The project aim was to unscramble the alternative splicing effects of TCDD in C57BL6 mouse hepatocytes using high-throughput data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hepatocarcinogenesis</title>
+      <link>https://academic-demo.netlify.app/project/project-igfbp2/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/project-igfbp2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.mx/citations?user=EBKaHQwAAAAJ&amp;amp;hl=es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verónica Vásquez-Garzón&lt;/a&gt; and  &lt;a href=&#34;https://www.cell.cinvestav.mx/depto.php?lang=es&amp;amp;tit=4&amp;amp;subt=1&amp;amp;subsubt=11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saúl Villa-Treviño&amp;rsquo;s lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During my undergraduate studies, I characterized the protein expression of Insulin-Like Growth Factor Binding Protein II (IGFBP2) during the develompent of cancer in rat livers using blood and tissue.&lt;/p&gt;
+&lt;p&gt;In recent years, this collaboration has grown and allowed me to mentor &lt;a href=&#34;http://www.biomedicina.uabjo.mx/media/18/2021/07/TESIS_CON_OFICIO_DE_IMPRESION_REYES_AVENDA%C3%91O_ITAYETZI_compressed_%281%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Itayetzi Reyes&lt;/a&gt; on her master&amp;rsquo;s degree project. We studied consistent genes across different studies using a meta-analysis in the development of NASH.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PulmonDB</title>
+      <link>https://academic-demo.netlify.app/project/project-pulmondb/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/project-pulmondb/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://pulmondb.liigh.unam.mx/images/PulmonDB.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We created &lt;a href=&#34;https://www.nature.com/articles/s41598-019-56339-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PulmonDB, a gene expression lung diseases database&lt;/a&gt; with public transcriptomic high-throuput data and manual curation information with an online interface for a quick accessibility.&lt;/p&gt;
+&lt;p&gt;Using PulmonDB we are analysing gene expression profiles in COPD and IPF patients to understand better the disease.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

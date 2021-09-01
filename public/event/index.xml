@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Academic</title>
+    <link>https://academic-demo.netlify.app/event/</link>
+      <atom:link href="https://academic-demo.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://academic-demo.netlify.app/event/</link>
+    </image>
+    
+    <item>
+      <title>Panorama general de análisis de datos de RNA-seq con R</title>
+      <link>https://academic-demo.netlify.app/talk/panorama-general-de-analisis-de-datos-de-rna-seq-con-r/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/panorama-general-de-analisis-de-datos-de-rna-seq-con-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

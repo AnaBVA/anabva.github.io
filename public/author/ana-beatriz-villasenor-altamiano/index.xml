@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Beatriz Villaseñor Altamiano | Academic</title>
+    <link>https://academic-demo.netlify.app/author/ana-beatriz-villasenor-altamiano/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/ana-beatriz-villasenor-altamiano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Beatriz Villaseñor Altamiano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/author/ana-beatriz-villasenor-altamiano/avatar_hu3f4a9bb97a72b1db641368b3048bc1c0_1039146_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ana Beatriz Villaseñor Altamiano</title>
+      <link>https://academic-demo.netlify.app/author/ana-beatriz-villasenor-altamiano/</link>
+    </image>
+    
+    <item>
+      <title>Gene regulation of  Hedgehog interacting protein (HHIP) in Chronic Obstructive Pulmonary Disease</title>
+      <link>https://academic-demo.netlify.app/publication/conference-ismb2020/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-ismb2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to copy citation in bibtex format.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PulmonDB: A Gene Expression Lung Diseases</title>
+      <link>https://academic-demo.netlify.app/publication/conference-ats2018/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-ats2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to copy citation in bibtex format.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PulmonDB: a curated lung disease gene expression databas</title>
+      <link>https://academic-demo.netlify.app/publication/article-pulmondb/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/article-pulmondb/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to copy citation in bibtex format.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

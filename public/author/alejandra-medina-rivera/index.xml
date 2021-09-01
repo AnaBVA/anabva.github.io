@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandra Medina-Rivera | Academic</title>
+    <link>https://academic-demo.netlify.app/author/alejandra-medina-rivera/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/alejandra-medina-rivera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandra Medina-Rivera</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Alejandra Medina-Rivera</title>
+      <link>https://academic-demo.netlify.app/author/alejandra-medina-rivera/</link>
+    </image>
+    
+    <item>
+      <title>Gene regulation of  Hedgehog interacting protein (HHIP) in Chronic Obstructive Pulmonary Disease</title>
+      <link>https://academic-demo.netlify.app/publication/conference-ismb2020/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-ismb2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to copy citation in bibtex format.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

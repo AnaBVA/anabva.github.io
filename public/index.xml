@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://academic-demo.netlify.app/</link>
+      <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://academic-demo.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Introdución al análisis de RNA-seq utilizando DESeq2.</title>
+      <link>https://academic-demo.netlify.app/courses/example/cdsb-scrna2021/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/courses/example/cdsb-scrna2021/</guid>
+      <description>&lt;p&gt;Autores: Ana B Villaseñor-Altamirano y Rodolfo L. Chávez-Domínguez&lt;/p&gt;
+&lt;p&gt;Práctica introductoria para realizar análisis de expresión usando RNA-seq desde cero. Veremos calidad de las lecturas, alineamiento con Salmon, importar los datos con tximport, y análisis de DE con DESeq2.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://comunidadbioinfo.github.io/minicurso_abr_2021/Slides/Slides.html#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/ComunidadBioInfo/minicurso_abr_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2-4 hours&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-language&#34;&gt;&lt;/i&gt; Spanish&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SdIwyk1rSlw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python basics</title>
+      <link>https://academic-demo.netlify.app/courses/example/python-basic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/courses/example/python-basic/</guid>
+      <description>&lt;p&gt;Build a foundation in Python using the book: &lt;a href=&#34;https://pythonforbiologists.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python for Biologist&lt;/a&gt; for the Genomic Science program, Cuernavaca, UNAM.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://anabva.github.io/pythonCCG_2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/AnaBVA/pythonCCG_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 2-4 hours per week, for 12 weeks&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-language&#34;&gt;&lt;/i&gt; Spanish&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python and databases</title>
+      <link>https://academic-demo.netlify.app/courses/example/python-db/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/courses/example/python-db/</guid>
+      <description>&lt;p&gt;Build a foundation in Python, get use to work with MySQL database using Python, create CGIs and introduction for Django. This course was for the Genomic Science program, Juriquilla, UNAM.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/AnaBVA/DBclass&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 4 hours per week, for 5 weeks&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-language&#34;&gt;&lt;/i&gt; Spanish&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Panorama general de análisis de datos de RNA-seq con R</title>
+      <link>https://academic-demo.netlify.app/talk/panorama-general-de-analisis-de-datos-de-rna-seq-con-r/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/panorama-general-de-analisis-de-datos-de-rna-seq-con-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene regulation of  Hedgehog interacting protein (HHIP) in Chronic Obstructive Pulmonary Disease</title>
+      <link>https://academic-demo.netlify.app/publication/conference-ismb2020/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-ismb2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to copy citation in bibtex format.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PulmonDB: A Gene Expression Lung Diseases</title>
+      <link>https://academic-demo.netlify.app/publication/conference-ats2018/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-ats2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to copy citation in bibtex format.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PulmonDB: a curated lung disease gene expression databas</title>
+      <link>https://academic-demo.netlify.app/publication/article-pulmondb/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/article-pulmondb/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to copy citation in bibtex format.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alternative Splicing in TCDD exposure</title>
+      <link>https://academic-demo.netlify.app/project/project-tcdd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/project-tcdd/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pone.0219747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cell.cinvestav.mx/depto.php?lang=es&amp;amp;tit=4&amp;amp;subt=1&amp;amp;subsubt=6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillermo Elizondo-Azuela&amp;rsquo;s lab&lt;/a&gt; and &lt;a href=&#34;https://labs.oicr.on.ca/boutros-lab/software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Boutros&#39; lab&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The project aim was to unscramble the alternative splicing effects of TCDD in C57BL6 mouse hepatocytes using high-throughput data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hepatocarcinogenesis</title>
+      <link>https://academic-demo.netlify.app/project/project-igfbp2/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/project-igfbp2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.mx/citations?user=EBKaHQwAAAAJ&amp;amp;hl=es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verónica Vásquez-Garzón&lt;/a&gt; and  &lt;a href=&#34;https://www.cell.cinvestav.mx/depto.php?lang=es&amp;amp;tit=4&amp;amp;subt=1&amp;amp;subsubt=11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saúl Villa-Treviño&amp;rsquo;s lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During my undergraduate studies, I characterized the protein expression of Insulin-Like Growth Factor Binding Protein II (IGFBP2) during the develompent of cancer in rat livers using blood and tissue.&lt;/p&gt;
+&lt;p&gt;In recent years, this collaboration has grown and allowed me to mentor &lt;a href=&#34;http://www.biomedicina.uabjo.mx/media/18/2021/07/TESIS_CON_OFICIO_DE_IMPRESION_REYES_AVENDA%C3%91O_ITAYETZI_compressed_%281%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Itayetzi Reyes&lt;/a&gt; on her master&amp;rsquo;s degree project. We studied consistent genes across different studies using a meta-analysis in the development of NASH.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PulmonDB</title>
+      <link>https://academic-demo.netlify.app/project/project-pulmondb/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/project-pulmondb/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://pulmondb.liigh.unam.mx/images/PulmonDB.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We created &lt;a href=&#34;https://www.nature.com/articles/s41598-019-56339-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PulmonDB, a gene expression lung diseases database&lt;/a&gt; with public transcriptomic high-throuput data and manual curation information with an online interface for a quick accessibility.&lt;/p&gt;
+&lt;p&gt;Using PulmonDB we are analysing gene expression profiles in COPD and IPF patients to understand better the disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://academic-demo.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
